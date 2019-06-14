@@ -1,0 +1,25 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "hamel-blog",
+    "description": "",
+    "home_page_url": "https://mingos3.github.io/gh-pages",
+    "feed_url": "https://mingos3.github.io/gh-pages/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "mingos"
+    },
+    "items": [
+        {
+            "id": "https://mingos3.github.io/gh-pages/first-post.html",
+            "url": "https://mingos3.github.io/gh-pages/first-post.html",
+            "title": "First Post",
+            "author": {
+                "name": "mingos"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-06-14T08:44:55+02:00",
+            "date_modified": "2019-06-14T08:44:55+02:00"
+        }
+    ]
+}
